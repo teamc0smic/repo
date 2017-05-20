@@ -12,4 +12,5 @@
 ### Links/Contact:
 - [Winterblade's Reddit](https://google.com/)
 - [/u/windexi](http://reddit.com/u/windexi/)
+- [@windexi](http://twitter.com/windexi)
 - [Email](mailto:jonahbrawley@gmail.com)
