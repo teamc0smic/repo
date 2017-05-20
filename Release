@@ -1,0 +1,9 @@
+Origin: Teamc0smic's Cydia Repository
+Label: Teamc0smic's Cydia Repository
+Suite: stable
+Version: 1.0
+Codename: teamc0smic
+Architectures: iphoneos-arm
+Components: main
+Description: Teamc0smic's Cydia Repository! :)
+MD5Sum:
