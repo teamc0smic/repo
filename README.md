@@ -1,2 +1,2 @@
-# teamcosmic.github.io
-Teamc0smic's Cydia Repository :)
+# Teamc0smic’s Cydia Repository!
+Members: Winterblade and Windexi
